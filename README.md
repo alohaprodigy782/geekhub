@@ -13,19 +13,19 @@ RULES:
  - The project has no deadline but I want to finish this within 2 months.
  - Remind me in April 2, 2024
 
-### Roadmap
+# Roadmap
 ## 1. Preperation/Relearning
-# 1.1 Software Production
+### 1.1 Software Production
 - [Software Development Life Cycle](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap/blob/main/content/01-module.md#12-software-production---software-development-life-cycle)
 - Change Management
 - MVP(Minimum Viable Product) mindset
 - Documentation Basics
-# 1.2 Brush up knowledge of Programming fundamentals
+### 1.2 Brush up knowledge of Programming fundamentals
 - Kotlin
 - Data Structure & Algorithms
 - CPU & Memory
 - etc.
-# 1.2 Devops
+### 1.2 Devops
 - [Devops Core](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap/blob/main/content/01-module.md#15-devops-methodology---devops-and-devsecops-core-pillars)
 
 ## 2. Planning
