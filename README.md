@@ -6,8 +6,8 @@ applying devops practices. To achieve that, I will make a rest api using Kotlin/
 corresponds to a programming/kotlin concept. For example /coroutine will be an endpoint that shows the
 things we learn about coroutines.
 
-RULES:
- - at lest 1 commit per day
+## RULES:
+ - at least 1 commit per day
  - no lazy commits such as a README change
  - have a specific goal per commit
  - The project has no deadline but I want to finish this within 2 months.
