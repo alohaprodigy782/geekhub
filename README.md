@@ -31,7 +31,7 @@ RULES:
 ## 2. Planning
 In this phase we shall plan all the next phases for this project from the application to its deployment and beyond. The plan is only to treated as a guide and never as the final product. It must be flexible to changes.
   
-## 3. 
+## 3. Application
 ## 4. Containerization/Deployment
 ## 5. Testing
 ## 6. Continuous Integration(CI)
