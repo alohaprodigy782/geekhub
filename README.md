@@ -1,4 +1,4 @@
-# road-to-devops
+# geekhub project
 
 
 The goal of this project is to learn programming fundamentals(specifically kotlin) and at the same time
